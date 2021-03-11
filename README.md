@@ -3,7 +3,7 @@
 
     Using Classic Editor: https://ckeditor.com/docs/ckeditor5/latest/builds/guides/quick-start.html#classic-editor
 
-    Add Simple Upload Adapter:  https://ckeditor.com/docs/ckeditor5/latest/features/image-upload/simple-upload-adapter.htm
+    Add Simple Upload Adapter:  https://ckeditor.com/docs/ckeditor5/latest/features/image-upload/simple-upload-adapter.html
         
         
         uploadUrl: "http://localhost:8080/fileupload",
@@ -12,4 +12,4 @@
         
         node app.js
 
-3. Let's g
+3. Let's go
